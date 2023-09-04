@@ -1,0 +1,3 @@
+Guía para curso de git platzi
+El cual será modificado para una futura prátctica con git
+Git es una herramienta escencial para todo programador
